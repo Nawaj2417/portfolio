@@ -133,5 +133,5 @@ import os
 
 STATIC_URL = "static/"
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles_build","static")
-MEDIA_URLS = '/media/'
-MEDIA_ROOT = os.path.json(BASE_DIR,'media')
+# MEDIA_URLS = '/media/'
+# MEDIA_ROOT = os.path.json(BASE_DIR,'media')
