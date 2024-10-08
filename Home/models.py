@@ -27,7 +27,7 @@ class Timeline(models.Model):
     position = models.CharField(max_length=100)
     duration = models.CharField(max_length=100)
     description = models.TextField()
-    skills = models.CharField(max_length=100)
+
     def __str__(self):
         return self.company
 
