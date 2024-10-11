@@ -9,4 +9,8 @@ urlpatterns = [
 
 
 # username: Brokly
+<<<<<<< HEAD
 # password: brokly
+=======
+# password: brokly
+>>>>>>> d4a627b (Update urls.py)
